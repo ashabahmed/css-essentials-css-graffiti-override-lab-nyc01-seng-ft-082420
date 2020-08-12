@@ -8,6 +8,6 @@ body #wall #tag-2 { /* 201 */
   display: none;
 }
 
-#wall #tag-3.slick, .wicked{ /*222*/
+div#wall div#tag-3.slick, .wicked{ /*222*/
   display: none;
 }
